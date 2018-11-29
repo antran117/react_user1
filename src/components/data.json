@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name": "Austin Tran",
+        "tel":"0905333333",
+        "permission":1
+    },
+    {
+        "id":2,
+        "name": "Kelly Khuong",
+        "tel":"0905444444",
+        "permission":2
+    },
+    {
+        "id":3,
+        "name": "Larry Tran",
+        "tel":"0905555555",
+        "permission":3
+    },
+    {
+        "id":4,
+        "name": "La Bel",
+        "tel":"0905666666",
+        "permission":4
+    },
+    {
+        "id":5,
+        "name": "Justin Nguyen",
+        "tel":"0905777777",
+        "permission":2
+    }
+]
